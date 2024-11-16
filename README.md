@@ -78,7 +78,7 @@ Inisialisasi list data_mahasiswa tersebut kosong.
 
 ![gambar](screenshot4/datafw3.png)
 
-Memasukan Nama, NIM, Nilai_tugas, Nilai UTS, Nilai UAS.
+Memasukan Nama, NIM, Nilai_tugas, Nilai_UTS, Nilai_UAS.
 
 4. 
 
