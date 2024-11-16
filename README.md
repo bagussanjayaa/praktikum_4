@@ -1,5 +1,11 @@
 # praktikum_4
 
+Nama: Bagus Sanjaya
+
+NIM: 312410505
+
+Kelas: TI.24.A.5
+
 ## Ini adalah penjelasan dari program yang saya buat
 
 ![gambar](screenshot4/data1.png)
